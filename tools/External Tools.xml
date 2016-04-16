@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="console" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="c:\Users\adaml\programs\ConEmuPack.160111\ConEmu64.exe" />
+      <option name="COMMAND" value="d:\programs\ConEmuPack.151006\ConEmu64.exe" />
       <option name="PARAMETERS" value="/Dir &quot;$FileDir$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
