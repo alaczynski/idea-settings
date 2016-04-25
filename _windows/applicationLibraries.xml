@@ -216,6 +216,7 @@
         <root url="file://$USER_HOME$/programs/gradle-2.12/src/tooling-api-builders" />
         <root url="file://$USER_HOME$/programs/gradle-2.12/src/ui" />
         <root url="file://$USER_HOME$/programs/gradle-2.12/src/wrapper" />
+        <root url="jar://$USER_HOME$/.ideaLibSources/groovy-all-2.4.4-sources.jar!/" />
       </SOURCES>
     </library>
   </component>
