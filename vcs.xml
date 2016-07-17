@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/alaczynski/sandbox-scala.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kennyk65/Microservices-With-Spring-Student-Files" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\adaml\projects" />
