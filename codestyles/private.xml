@@ -1,0 +1,10 @@
+<code_scheme name="private">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="METHOD_ANNOTATION_WRAP" value="0" />
+    <option name="CLASS_ANNOTATION_WRAP" value="0" />
+    <option name="FIELD_ANNOTATION_WRAP" value="0" />
+  </codeStyleSettings>
+</code_scheme>
