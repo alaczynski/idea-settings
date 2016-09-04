@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/spring-cloud-samples/tests" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alaczynski/spring-cloud-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\adaml\projects\spring-cloud-samples" />
+    <option name="cloneParentDir" value="C:\Users\adaml\projects\spring-cloud" />
   </component>
 </application>
