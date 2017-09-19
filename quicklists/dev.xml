@@ -1,4 +1,5 @@
 <list display="dev">
+  <action id="OpenInBrowser" />
   <action id="Tool_External Tools_console" />
   <action id="Tool_External Tools_total commander" />
 </list>
