@@ -1,0 +1,18 @@
+<code_scheme name="tabs" version="173">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="METHOD_ANNOTATION_WRAP" value="0" />
+    <option name="CLASS_ANNOTATION_WRAP" value="0" />
+    <option name="FIELD_ANNOTATION_WRAP" value="0" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
